@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Martian Topographic Profiles Toolbox
+message: Workbook to plot and analyse Martian topographic profiles
+type: software
+authors:
+  - given-names: Maeve
+    family-names: Murphy Quinlan
+    email: earmmu@leeds.ac.uk
+    affiliation: University of Leeds
+    orcid: 'https://orcid.org/0000-0003-2958-1008'
+repository-code: 'https://github.com/murphyqm/martian-topographic-profiles'
+abstract: >-
+  The Martian Topographic Profiles toolbox contains simple
+  Python tools to quickly plot and analyse adjacent
+  topographic profiles; contained in both a Juptyer notebook
+  and a Python script.
+license: MIT
+commit: 8f15e60
+version: 0.1.0
+date-released: '2024-09-11'
